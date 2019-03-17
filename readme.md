@@ -1,4 +1,4 @@
-# Case Study: TensorFlow 2.0 Alpha
+# Case Study: TensorFlow
 
 ## Brief Intro
 
