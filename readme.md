@@ -34,7 +34,7 @@ This is my case study repository for tensorflow.
   conda install tensorflow-gpu 
   ```
 
-![1552819146984](D:\git\case-study-8128\documentation\tensorflow-ecosystem.jpg)
+![tensorflow-ecosystem](https://github.com/ec500-software-engineering/case-study-8128/blob/master/documentation/tensorflow-ecosystem.jpg)
 
 ##### Why python is chosen as the language of the tensorflow?
 
